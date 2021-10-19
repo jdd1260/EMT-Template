@@ -1,0 +1,10 @@
+deploy/*
+#build artifacts
+dist/*
+coverage/*
+
+scripts/*
+
+jest.config.js
+jest-mongodb-config.js
+
